@@ -1,0 +1,160 @@
+\data\
+ngram 1=46
+ngram 2=52
+ngram 3=50
+
+\1-grams:
+-1.9542425	<unk>	0
+0	<s>	-0.30103
+-1.3984042	</s>	0
+-1.3984042	the	-0.30103
+-1.6834741	wizard	-0.30103
+-1.6834741	quickly	-0.30103
+-1.6834741	jinxed	-0.30103
+-1.6834741	gnomes	-0.30103
+-1.6834741	before	-0.30103
+-1.6834741	they	-0.30103
+-1.6834741	vaporized	-0.30103
+-1.6834741	jackie	-0.30103
+-1.6834741	will	-0.30103
+-1.6834741	budget	-0.30103
+-1.6834741	for	-0.30103
+-1.6834741	most	-0.30103
+-1.6834741	expensive	-0.30103
+-1.6834741	zoology	-0.30103
+-1.6834741	equipment	-0.30103
+-1.6834741	hello	-0.30103
+-1.6834741	im	-0.30103
+-1.6834741	scott	-0.30103
+-1.6834741	whats	-0.30103
+-1.6834741	your	-0.30103
+-1.6834741	name	-0.30103
+-1.6834741	my	-0.30103
+-1.6834741	names	-0.30103
+-1.6834741	andy	-0.30103
+-1.3984042	nice	-0.30103
+-1.5179574	to	-0.30103
+-1.6834741	meet	-0.30103
+-1.6834741	you	-0.30103
+-1.6834741	too	-0.30103
+-1.6834741	welcome	-0.30103
+-1.5179574	our	-0.30103
+-1.6834741	class	-0.30103
+-1.6834741	thanks	-0.30103
+-1.6834741	whos	-0.30103
+-1.6834741	teacher	-0.30103
+-1.6834741	ms	-0.30103
+-1.6834741	lin	-0.30103
+-1.6834741	she	-0.30103
+-1.6834741	is	-0.30103
+-1.6834741	a	-0.30103
+-1.6834741	very	-0.30103
+-1.6834741	person	-0.30103
+
+\2-grams:
+-0.28401452	vaporized </s>	0
+-0.28401452	equipment </s>	0
+-0.28401452	person </s>	0
+-0.7289829	<s> the	-0.30103
+-0.28401452	jinxed the	-0.30103
+-0.28401452	for the	-0.30103
+-0.75195336	the wizard	-0.30103
+-0.29212064	wizard quickly	-0.30103
+-0.29212064	quickly jinxed	-0.30103
+-0.75195336	the gnomes	-0.30103
+-0.29212064	gnomes before	-0.30103
+-0.29212064	before they	-0.30103
+-0.29212064	they vaporized	-0.30103
+-0.75195336	<s> jackie	-0.30103
+-0.29212064	jackie will	-0.30103
+-0.29212064	will budget	-0.30103
+-0.29212064	budget for	-0.30103
+-0.75195336	the most	-0.30103
+-0.29212064	most expensive	-0.30103
+-0.29212064	expensive zoology	-0.30103
+-0.29212064	zoology equipment	-0.30103
+-0.75195336	<s> hello	-0.30103
+-0.29212064	hello im	-0.30103
+-0.29212064	im scott	-0.30103
+-0.29212064	scott whats	-0.30103
+-0.29212064	whats your	-0.30103
+-0.29212064	your name	-0.30103
+-0.29212064	name my	-0.30103
+-0.29212064	my names	-0.30103
+-0.29212064	names andy	-0.30103
+-0.28401452	andy nice	-0.30103
+-0.56867063	you nice	-0.30103
+-0.28401452	very nice	-0.30103
+-0.4577919	nice to	-0.30103
+-0.28804865	welcome to	-0.30103
+-0.5844203	to meet	-0.30103
+-0.29212064	meet you	-0.30103
+-0.5844203	you too	-0.30103
+-0.29212064	too welcome	-0.30103
+-0.5764741	to our	-0.30103
+-0.28804865	whos our	-0.30103
+-0.5844203	our class	-0.30103
+-0.29212064	class thanks	-0.30103
+-0.29212064	thanks whos	-0.30103
+-0.5844203	our teacher	-0.30103
+-0.29212064	teacher ms	-0.30103
+-0.29212064	ms lin	-0.30103
+-0.29212064	lin she	-0.30103
+-0.29212064	she is	-0.30103
+-0.29212064	is a	-0.30103
+-0.29212064	a very	-0.30103
+-0.75195336	nice person	-0.30103
+
+\3-grams:
+-0.11919251	they vaporized </s>
+-0.11919251	zoology equipment </s>
+-0.11919251	nice person </s>
+-0.11919251	quickly jinxed the
+-0.11919251	budget for the
+-0.23024249	<s> the wizard
+-0.12194859	the wizard quickly
+-0.12194859	wizard quickly jinxed
+-0.23024249	jinxed the gnomes
+-0.12194859	the gnomes before
+-0.12194859	gnomes before they
+-0.12194859	before they vaporized
+-0.12194859	<s> jackie will
+-0.12194859	jackie will budget
+-0.12194859	will budget for
+-0.23024249	for the most
+-0.12194859	the most expensive
+-0.12194859	most expensive zoology
+-0.12194859	expensive zoology equipment
+-0.12194859	<s> hello im
+-0.12194859	hello im scott
+-0.12194859	im scott whats
+-0.12194859	scott whats your
+-0.12194859	whats your name
+-0.12194859	your name my
+-0.12194859	name my names
+-0.12194859	my names andy
+-0.11919251	names andy nice
+-0.41455132	meet you nice
+-0.11919251	a very nice
+-0.17117766	andy nice to
+-0.17117766	you nice to
+-0.120568365	too welcome to
+-0.20053428	nice to meet
+-0.12194859	to meet you
+-0.4200089	meet you too
+-0.12194859	you too welcome
+-0.19888079	welcome to our
+-0.120568365	thanks whos our
+-0.20053428	to our class
+-0.12194859	our class thanks
+-0.12194859	class thanks whos
+-0.20053428	whos our teacher
+-0.12194859	our teacher ms
+-0.12194859	teacher ms lin
+-0.12194859	ms lin she
+-0.12194859	lin she is
+-0.12194859	she is a
+-0.12194859	is a very
+-0.23024249	very nice person
+
+\end\
