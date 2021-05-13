@@ -20,6 +20,6 @@ cat ${SRCTEXT}>>${TMPTEXT}
 
 /home/v07env/bin/python3 /home/DeepSpeech/data/lm/generate_package.py --alphabet ${ALPHABET} --lm ${WDIR}lm.binary --vocab ${TMPTEXT} --default_alpha 0.75 --default_beta 1.85 --package ${SCORER}
 
-#rm ${TMPTEXT}
+rm ${TMPTEXT}
 rm ${WDIR}lm.arpa
 rm ${WDIR}lm.binary
