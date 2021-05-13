@@ -1,5 +1,7 @@
 #!/bin/bash -x
-
+echo 'params'
+echo $1
+echo $2
 # set dir of script
 BDIR="/home/scorerbuilder/"
 WDIR="/home/scorerbuilder/work/$1"
