@@ -6,8 +6,8 @@ WDIR="/home/scorerbuilder/work/$1"
 SRCTEXT=${WDIR}.txt
 TMPTEXT=${WDIR}-temp.txt
 SCORER=${WDIR}.scorer
-ALPHABET=${BDIR}alphabet.txt
-GROUNDTRUTH=${BDIR}ground-truth.txt
+ALPHABET=${BDIR}alphabet_$2.txt
+GROUNDTRUTH=${BDIR}ground-truth_$2.txt
 
 cp ${GROUNDTRUTH} ${TMPTEXT}
 cat ${SRCTEXT}>>${TMPTEXT}
