@@ -17,7 +17,6 @@ k
 l
 m
 n
-ñ
 o
 p
 q
@@ -35,5 +34,7 @@ z
 í
 ó
 ú
-'
+ý
+ñ
+ü
 # The last (non-comment) line needs to end with a newline.
